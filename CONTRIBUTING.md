@@ -1,5 +1,5 @@
 # Contribution
-**Thank you for considering contribution to the C\# R.A.T Server Project!**  
+**Thank you for considering contribution to the Javascript Botnet C\# Project!**  
 ## How to contribute?
 It's very simple!  
 1. Fork the project  
@@ -16,7 +16,8 @@ I will try to respond within 24 hours!
 ## How to run / compile
 I use Visual Studio 2017 Community Edition.  
 The program is written in c\# and built with .NET Framework 4.5  
-Any additional requirements can be found under TutServer/bin/debug  
+For the client side you can use any modern browser and the text editor of your choice  
+Any additional requirements can be found under WebPlugin/bin/debug  
 ## How to ask questions?
 You can also use the *Issues* section on GitHub, i will assign a label to it, so it's different from bugs.  
 I will try to respond within 24 hours!  
