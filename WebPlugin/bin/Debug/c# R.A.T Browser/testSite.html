@@ -1,0 +1,29 @@
+<html>
+
+<head>
+<title>Bad site</title>
+<script src="main.js"></script>
+</head>
+
+<body>
+<p>This is a test</p>
+<button onclick="AddCookie('test', 'test1')">Add Cookie To Site</button>
+<br><br>
+
+<form method="GET" action="#">
+<input type="text" name="Username" />
+<input type="password" name="password" />
+<input type="checkbox" name="remember-user">Remember Me</input>
+<input type="submit">Login</input>
+</form>
+
+<script>
+function AddCookie(name, value)
+{
+	document.cookie = name + "=" + value;
+}
+</script>
+
+</body>
+ 
+</html>
